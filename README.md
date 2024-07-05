@@ -20,8 +20,8 @@ This project is a basic template for creating a Telegram bot using the `aiogram`
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/telegram-bot-scheduled-tasks.git
-   cd telegram-bot-scheduled-tasks
+   git clone https://github.com/Gussarov1/telegram_bot_base.git
+   cd telegram_bot_base
    ```
    
 2. Create and activate a virtual environment:
@@ -84,7 +84,19 @@ This template provides a basic structure for a Telegram bot. You can customize a
 ## Contributing
 
 1.	Fork the repository.
-2.	Create a new branch (git checkout -b feature-branch).
-3.	Commit your changes (git commit -am 'Add new feature').
-4.	Push to the branch (git push origin feature-branch).
+2.	Create a new branch
+    ```sh
+    git checkout -b feature-branch
+    ```
+
+3.	Commit your changes 
+    ```
+    git commit -am 'Add new feature'
+    ```
+
+4.	Push to the branch 
+    ```
+    git push origin feature-branch
+    ```
+
 5.	Create a new Pull Request.
